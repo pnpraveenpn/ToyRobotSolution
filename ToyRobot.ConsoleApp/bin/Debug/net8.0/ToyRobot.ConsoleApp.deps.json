@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToyRobot.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ToyRobot.Core": "1.0.0"
+        },
+        "runtime": {
+          "ToyRobot.ConsoleApp.dll": {}
+        }
+      },
+      "ToyRobot.Core/1.0.0": {
+        "runtime": {
+          "ToyRobot.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToyRobot.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyRobot.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
